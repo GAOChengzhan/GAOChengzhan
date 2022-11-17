@@ -5,7 +5,7 @@
 - ✨ My Linkedin URL: https://www.linkedin.com/in/chengzhan-christoffel-gao/
 
 ![ChengzhanGao's GitHub stats](https://github-readme-stats.vercel.app/api?username=solityde826&count_private=true&theme=cobalt)
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=solityde826&theme=alduin" alt = "" /></a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=solityde826&theme=onedark&row=2)](https://github.com/ryo-ma/github-profile-trophy)
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=solityde826&show_icons=true&locale=en&layout=compact" alt="solityde826" /><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=solityde826&" alt="solityde826" /></p>
 
 <!---
