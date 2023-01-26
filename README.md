@@ -5,7 +5,8 @@
 - ✨ My Linkedin URL: https://www.linkedin.com/in/chengzhan-christoffel-gao/
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=solityde826&layout=compact&exclude_repo=CNN-based-Image-Recognition-for-AsianGiant-Hornets,Machine-Learning-and-Data-Computing-Tongji,NLP-on-Blogs-during-COVID-19-Pandemic,CSE258-Web-Mining-and-Recommder-System,Stock-Prediction-using-LSTM-Model)](https://github.com/anuraghazra/github-readme-stats)
-![ChengzhanGao's GitHub stats](https://github-readme-stats.vercel.app/api?username=solityde826&count_private=true&theme=cobalt)
+
+![ChengzhanGao's GitHub stats](https://github-readme-stats.vercel.app/api?username=solityde826&count_private=true)
 [![trophy](https://github-profile-trophy.vercel.app/?username=solityde826&theme=dracula&row=1&margin-w=12)](https://github.com/ryo-ma/github-profile-trophy)
 
 
