@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Christoffel Gao, an ECE graduate student at UCSD, majoring in Machine Learning and Data Science. I'm currently working as a software engineer intern at Esurgi Biotech: https://myesurgi.com/.
-- 👀 I’m interested in Game Development, Software Developement.
+- 👀 I’m interested in Game Development, Web&App Developement.
 - 🌱 I’m currently learning HTML,CSS,JavaScript...
 - 📫 My Email Address is gchengzhan@ucsd.edu
 - ✨ My Linkedin URL: https://www.linkedin.com/in/chengzhan-christoffel-gao/
