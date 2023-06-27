@@ -4,6 +4,9 @@
 - 🌱 This is my personal [website](https://solityde826.github.io/).
 - ✨ My [Linkedin](https://www.linkedin.com/in/chengzhan-christoffel-gao/).
 
+Open-source Contributions:
+- [Question Extractor](https://github.com/nestordemeure/question_extractor) using large language model
+- 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=solityde826&layout=compact&exclude_repo=CNN-based-Image-Recognition-for-AsianGiant-Hornets,Machine-Learning-and-Data-Computing-Tongji,NLP-on-Blogs-during-COVID-19-Pandemic,CSE258-Web-Mining-and-Recommder-System,Stock-Prediction-using-LSTM-Model)](https://github.com/anuraghazra/github-readme-stats)
 
 ![ChengzhanGao's GitHub stats](https://github-readme-stats.vercel.app/api?username=solityde826&count_private=true)
