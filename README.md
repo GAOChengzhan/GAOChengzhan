@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Christoffel Gao, an ECE graduate student at UCSD, majoring in Machine Learning and Data Science. I'm currently working with Prof. [Xie Pengtao](https://pengtaoxie.github.io/) in the field of Large Language Model.
-- 👀 I’m interested in Game Development, Web&App Developement.
-- 🌱 This is my personal [website](https://solityde826.github.io/).
+- 👀 I’m interested in Game Development, Web&App Developement, Machine/Deep Learning.
 - 📫 My Email Address is gchengzhan@ucsd.edu
+- 🌱 This is my personal [website](https://solityde826.github.io/).
 - ✨ My [Linkedin](https://www.linkedin.com/in/chengzhan-christoffel-gao/).
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=solityde826&layout=compact&exclude_repo=CNN-based-Image-Recognition-for-AsianGiant-Hornets,Machine-Learning-and-Data-Computing-Tongji,NLP-on-Blogs-during-COVID-19-Pandemic,CSE258-Web-Mining-and-Recommder-System,Stock-Prediction-using-LSTM-Model)](https://github.com/anuraghazra/github-readme-stats)
