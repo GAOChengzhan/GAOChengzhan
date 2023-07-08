@@ -3,7 +3,7 @@
 - I'm currently working with Prof. [Xie Pengtao](https://pengtaoxie.github.io/) in the field of Large Language Model.
 - 👀 I’m interested in Game Development, Web&App Developement, Machine/Deep Learning.
 - 📫 My Email Address is gchengzhan@ucsd.edu
-- 🌱 This is my personal [website](https://solityde826.github.io/).
+- 🌱 This is my personal [website](https://gaochengzhan.github.io/).
 - ✨ My [Linkedin](https://www.linkedin.com/in/chengzhan-christoffel-gao/).
 
 ### Open-source Contributions:
@@ -11,14 +11,14 @@
 
 PS. If you also like [Haibara](https://www.detectiveconanworld.com/wiki/Ai_Haibara), we are already good friends.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=solityde826&layout=compact&exclude_repo=CNN-based-Image-Recognition-for-AsianGiant-Hornets,Machine-Learning-and-Data-Computing-Tongji,NLP-on-Blogs-during-COVID-19-Pandemic,CSE258-Web-Mining-and-Recommder-System,Stock-Prediction-using-LSTM-Model)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gaochengzhan&layout=compact&exclude_repo=CNN-based-Image-Recognition-for-AsianGiant-Hornets,Machine-Learning-and-Data-Computing-Tongji,NLP-on-Blogs-during-COVID-19-Pandemic,CSE258-Web-Mining-and-Recommder-System,Stock-Prediction-using-LSTM-Model)](https://github.com/anuraghazra/github-readme-stats)
 
-![ChengzhanGao's GitHub stats](https://github-readme-stats.vercel.app/api?username=solityde826&count_private=true)
+![ChengzhanGao's GitHub stats](https://github-readme-stats.vercel.app/api?username=gaochengzhan&count_private=true)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=solityde826&theme=flat&row=1&margin-w=12)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=gaochengzhan&theme=flat&row=1&margin-w=12)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <!---
-solityde826/solityde826 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+gaochengzhan/gaochengzhan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
