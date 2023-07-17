@@ -17,8 +17,8 @@ PS. If you also like [Haibara](https://www.detectiveconanworld.com/wiki/Ai_Haiba
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=gaochengzhan&theme=flat&row=1&margin-w=12)](https://github.com/ryo-ma/github-profile-trophy)
 
-<!--START_SECTION:waka-box-->
-<!--END_SECTION:waka-box-->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <!---
 gaochengzhan/gaochengzhan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
