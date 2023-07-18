@@ -9,7 +9,7 @@
 ### Open-source Contributions:
 - [Question Extractor](https://github.com/nestordemeure/question_extractor) using large language model
 
-PS. If you also like [Haibara](https://www.detectiveconanworld.com/wiki/Ai_Haibara), we are already good friends.
+PS. If you also like [Haibara](https://www.detectiveconanworld.com/wiki/Ai_Haibara)/L. Messi, we are already good friends.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gaochengzhan&layout=compact&exclude_repo=CNN-based-Image-Recognition-for-AsianGiant-Hornets,Machine-Learning-and-Data-Computing-Tongji,NLP-on-Blogs-during-COVID-19-Pandemic,CSE258-Web-Mining-and-Recommder-System,Stock-Prediction-using-LSTM-Model)](https://github.com/anuraghazra/github-readme-stats)
 
