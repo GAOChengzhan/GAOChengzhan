@@ -18,18 +18,18 @@ PS. If you also like [Haibara](https://www.detectiveconanworld.com/wiki/Ai_Haiba
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 July 2023 - To: 03 August 2023
+From: 05 July 2023 - To: 04 August 2023
 
-Total Time: 87 hrs 16 mins
+Total Time: 87 hrs 45 mins
 
-JavaScript         61 hrs 31 mins  █████████████████▓░░░░░░░   70.49 %
-EJS                9 hrs 46 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.20 %
-Python             5 hrs 44 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.57 %
-JSON               3 hrs 38 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 %
-CSS                1 hr 56 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.22 %
-Bash               1 hr 24 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 %
+JavaScript         61 hrs 34 mins  █████████████████▓░░░░░░░   70.17 %
+EJS                9 hrs 53 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.28 %
+Python             5 hrs 44 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.54 %
+JSON               3 hrs 44 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 %
+CSS                1 hr 57 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.22 %
+Bash               1 hr 36 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.83 %
 reStructuredText   1 hr 21 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.56 %
-HTML               51 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
+HTML               51 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
 Markdown           19 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
 Other              16 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
 ```
