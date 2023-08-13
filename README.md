@@ -18,20 +18,20 @@ PS. If you also like [Haibara](https://www.detectiveconanworld.com/wiki/Ai_Haiba
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 July 2023 - To: 10 August 2023
+From: 12 July 2023 - To: 11 August 2023
 
-Total Time: 92 hrs 50 mins
+Total Time: 88 hrs 5 mins
 
-JavaScript         56 hrs 23 mins  ███████████████▒░░░░░░░░░   60.74 %
-EJS                17 hrs 58 mins  █████░░░░░░░░░░░░░░░░░░░░   19.36 %
-CSS                9 hrs 27 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.18 %
-JSON               4 hrs 22 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.71 %
-Python             1 hr 41 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.82 %
-Bash               1 hr 26 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %
-HTML               22 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
-reStructuredText   19 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
-Other              15 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
-Markdown           13 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
+JavaScript         53 hrs 42 mins  ███████████████▒░░░░░░░░░   60.96 %
+EJS                18 hrs 16 mins  █████▒░░░░░░░░░░░░░░░░░░░   20.74 %
+CSS                9 hrs 28 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.76 %
+JSON               3 hrs 44 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 %
+Bash               1 hr 17 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 %
+HTML               25 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
+Python             15 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
+Other              14 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
+Markdown           13 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
+Git Config         11 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
 ```
 
 <!--END_SECTION:waka-->
