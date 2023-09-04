@@ -19,14 +19,14 @@ PS. If you also like [Haibara](https://www.detectiveconanworld.com/wiki/Ai_Haiba
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 August 2023 - To: 01 September 2023
+From: 03 August 2023 - To: 02 September 2023
 
-Total Time: 112 hrs 52 mins
+Total Time: 113 hrs 14 mins
 
-JavaScript   67 hrs 10 mins  ███████████████░░░░░░░░░░   59.52 %
-CSS          20 hrs 51 mins  ████▓░░░░░░░░░░░░░░░░░░░░   18.48 %
-EJS          15 hrs 52 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   14.07 %
-JSON         5 hrs 33 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.92 %
+JavaScript   67 hrs 58 mins  ███████████████░░░░░░░░░░   60.02 %
+CSS          20 hrs 51 mins  ████▓░░░░░░░░░░░░░░░░░░░░   18.43 %
+EJS          15 hrs 24 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   13.60 %
+JSON         5 hrs 35 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.93 %
 Python       1 hr 20 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
 Bash         58 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
 HTML         20 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
