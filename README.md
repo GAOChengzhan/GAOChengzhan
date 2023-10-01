@@ -4,7 +4,7 @@
 - I am currently working at **Lyde** as founding engineer.
 - 👀 I’m interested in Game Development, Web&App Developement, Machine/Deep Learning.
 - 📫 My Email Address is gchengzhan@ucsd.edu
-- 🌱 This is my personal [website](https://gaochengzhan.github.io/).
+- 🌱 This is my personal [website](https://gaochengzhan.netlify.app/).
 - ✨ My [Linkedin](https://www.linkedin.com/in/chengzhan-christoffel-gao/).
 
 ### Open-source Contributions:
