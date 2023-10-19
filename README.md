@@ -1,7 +1,7 @@
 ## Self-Introduction
 - 👋 Hi, I’m Christoffel Gao, an ECE graduate student at UCSD, majoring in Machine Learning and Data Science.
 - I had software engineer internship at [CRIB](https://www.linkedin.com/company/trycrib/) and [Esurgi Biotech](https://myesurgi.com/), and also worked with Prof. [Xie Pengtao](https://pengtaoxie.github.io/) on the LLM-related project [DrugChat](https://github.com/UCSD-AI4H/drugchat).
-- I am currently working at **Lyde** as a software engineer, playing a pivot role, in all phases from UI/UX design through to CI/CD, in our GPT-powered platform to assist students in crafting compelling CVs and personal statements for university admissions.
+- I am currently working at **Lyde** as a software engineer, playing a pivot role, in all phases from UI/UX design through to CI/CD, in our GPT-powered platform to assist students in crafting compelling CVs and personal statements for university admissions. Welcome to use our newest production: [FoxiApply](https://lyde.io).
 - 👀 I’m interested in Game Development, Web&App Developement, Machine/Deep Learning.
 - 📫 My Email Address is gchengzhan@ucsd.edu
 - 🌱 This is my personal [website](https://gaochengzhan.netlify.app/).
