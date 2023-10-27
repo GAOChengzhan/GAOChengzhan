@@ -4,19 +4,19 @@
 - I am currently working at **Lyde** as a software engineer, playing a pivot role, in all phases from UI/UX design through to CI/CD, in our GPT-powered platform to assist students in crafting compelling CVs and personal statements for university admissions. Welcome to use our newest production: [FoxiApply](https://lyde.io).
 - 👀 I’m interested in Game Development, Web&App Developement, Machine/Deep Learning.
 
-### Personal Website
+## Personal Website
 -  This is my personal [website](https://gaochengzhan.netlify.app/) where you can know more about me.
 
-### Open-source Contributions:
+## Open-source Contributions:
 - [Question Extractor](https://github.com/nestordemeure/question_extractor) using large language model
 
-### My Posts:
+## My Posts:
 - [Insights on Error Handling System Design](https://gaochengzhan.netlify.app/post/error-handling/)
 - [Authentication | Web Application](https://gaochengzhan.netlify.app/post/authentication/)
 - [Stripe | Web Application](https://gaochengzhan.netlify.app/post/stripe/)
 - [Redis | Bull | JobQueue](https://gaochengzhan.netlify.app/post/job-queue/)
 
-### Contact Me
+## Contact Me
 - 📫 My Email Address is gchengzhan@ucsd.edu
 - ✨ My [Linkedin](https://www.linkedin.com/in/chengzhan-christoffel-gao/).
 
