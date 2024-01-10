@@ -1,7 +1,7 @@
 ## Self-Introduction
-- 👋 Hi, I’m Christoffel Gao, an ECE graduate student at UCSD, majoring in Machine Learning and Data Science.
-- I had software engineer internship at [CRIB](https://www.linkedin.com/company/trycrib/) and [Esurgi Biotech](https://myesurgi.com/), and also worked with Prof. [Xie Pengtao](https://pengtaoxie.github.io/) on the LLM-related project [DrugChat](https://github.com/UCSD-AI4H/drugchat).
-- I am currently working at **Lyde** as a software engineer, playing a pivot role, in all phases from UI/UX design through to CI/CD, in our GPT-powered platform to assist students in crafting compelling CVs and personal statements for university admissions. Welcome to use our newest production: [FoxiApply](https://lyde.io).
+- 👋 Hi, I’m Chengzhan Gao. I am currently working as a software engineer at **[Ideker Lab](https://idekerlab.ucsd.edu/)**, UCSD Health. In parallel, I am also pursuing a Master's degree in Electrical and Computer Engineering at the University of California San Diego (UCSD), majoring in Machine Learning and Data Science.
+- I completed software engineer internship at [CRIB](https://www.linkedin.com/company/trycrib/) and [Esurgi Biotech](https://myesurgi.com/), and collaborated with Prof. [Xie Pengtao](https://pengtaoxie.github.io/) on the LLM-related project [DrugChat](https://github.com/UCSD-AI4H/drugchat).
+- I also worked at **Lyde** as a software engineer, playing a pivot role, in all phases from UI/UX design through to CI/CD, in the GPT-powered platform **[FoxiApply](https://lyde.io)** to assist students in crafting compelling CVs and personal statements for university admissions.
 - 👀 I’m interested in Game Development, Web&App Developement, Machine/Deep Learning.
 
 ## Personal Website
