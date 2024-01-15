@@ -27,17 +27,17 @@ PS. If you also like [Haibara](https://www.detectiveconanworld.com/wiki/Ai_Haiba
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 December 2023 - To: 12 January 2024
+From: 14 December 2023 - To: 13 January 2024
 
-Total Time: 6 hrs 10 mins
+Total Time: 6 hrs 11 mins
 
-Python       3 hrs 59 mins   ████████████████▒░░░░░░░░   64.75 %
-JSON         38 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.52 %
-Markdown     36 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.00 %
-TypeScript   24 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.55 %
-CSV          9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.63 %
-Other        6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.84 %
-Bash         6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 %
+Python       3 hrs 59 mins   ████████████████░░░░░░░░░   64.46 %
+JSON         38 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.47 %
+Markdown     36 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.95 %
+TypeScript   25 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.97 %
+CSV          9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.62 %
+Other        6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.83 %
+Bash         6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 %
 EJS          4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
 SSH Config   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
 JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
