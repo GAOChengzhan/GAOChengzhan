@@ -27,14 +27,14 @@ PS. If you also like [Haibara](https://www.detectiveconanworld.com/wiki/Ai_Haiba
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 July 2024 - To: 10 August 2024
+From: 12 July 2024 - To: 11 August 2024
 
-Total Time: 39 hrs 46 mins
+Total Time: 37 hrs 56 mins
 
-TypeScript   38 hrs 59 mins  ████████████████████████▓   98.01 %
-JavaScript   25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
-Other        17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
-JSON         4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
+TypeScript   37 hrs 20 mins  ████████████████████████▓   98.44 %
+JavaScript   17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
+Other        13 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
+JSON         4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
 CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
