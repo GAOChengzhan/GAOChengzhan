@@ -29,20 +29,20 @@ PS. If you also like [Haibara](https://www.detectiveconanworld.com/wiki/Ai_Haiba
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 September 2024 - To: 11 October 2024
+From: 12 September 2024 - To: 12 October 2024
 
-Total Time: 59 hrs 32 mins
+Total Time: 57 hrs 54 mins
 
-TypeScript                 38 hrs 4 mins   ████████████████░░░░░░░░░   63.96 %
-Java                       17 hrs 15 mins  ███████▒░░░░░░░░░░░░░░░░░   28.98 %
-Other                      2 hrs 20 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 %
-JSON                       37 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
-Bash                       13 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
-Lua                        13 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
-JavaScript                 12 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
+TypeScript                 37 hrs 18 mins  ████████████████░░░░░░░░░   64.44 %
+Java                       17 hrs 15 mins  ███████▒░░░░░░░░░░░░░░░░░   29.79 %
+Other                      1 hr 42 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.94 %
+JSON                       37 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
+Bash                       13 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
+Lua                        13 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
 Nginx configuration file   10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
-Markdown                   9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
-Image (svg)                4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+Markdown                   9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
+Image (svg)                4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+GitIgnore file             3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
 ```
 
 <!--END_SECTION:waka-->
