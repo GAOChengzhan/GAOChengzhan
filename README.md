@@ -29,20 +29,20 @@ PS. If you also like [Haibara](https://www.detectiveconanworld.com/wiki/Ai_Haiba
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 September 2024 - To: 16 October 2024
+From: 17 September 2024 - To: 17 October 2024
 
-Total Time: 53 hrs 47 mins
+Total Time: 52 hrs 58 mins
 
-TypeScript                 40 hrs 54 mins  ███████████████████░░░░░░   76.05 %
-Java                       8 hrs 34 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.96 %
-Other                      1 hr 13 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.28 %
-JSON                       41 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 %
-Java Properties            26 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
-SQL                        19 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
-Bash                       13 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
-Lua                        13 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
+TypeScript                 43 hrs 10 mins  ████████████████████▒░░░░   81.50 %
+Java                       5 hrs 47 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.92 %
+Other                      52 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.67 %
+JSON                       44 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
+Java Properties            26 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
+SQL                        19 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
+Bash                       13 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
+Lua                        13 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
 XML                        12 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
-Image (svg)                12 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
+Image (svg)                12 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
 ```
 
 <!--END_SECTION:waka-->
