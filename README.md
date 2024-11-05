@@ -22,8 +22,6 @@
 
 PS. If you also like [Haibara](https://www.detectiveconanworld.com/wiki/Ai_Haibara)/L. Messi, we are already good friends.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GAOChengzhan&show_icons=true&theme=radical)
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=gaochengzhan&theme=flat&row=1&margin-w=12)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--START_SECTION:waka-->
