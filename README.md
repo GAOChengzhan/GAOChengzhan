@@ -27,7 +27,7 @@ PS. If you also like [Haibara](https://www.detectiveconanworld.com/wiki/Ai_Haiba
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 October 2024 - To: 10 November 2024
+From: 12 October 2024 - To: 11 November 2024
 
 Total Time: 58 hrs 21 mins
 
