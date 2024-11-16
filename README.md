@@ -1,6 +1,6 @@
 ## Self-Introduction
 - 👋 Hi, I’m Chengzhan Gao. I am currently working as a software engineer at **[Ideker Lab](https://idekerlab.ucsd.edu/)**, UCSD Health. In parallel, I am also pursuing a Master's degree in Electrical and Computer Engineering at the University of California San Diego (UCSD), majoring in Machine Learning and Data Science.
-- I worked at **Lyde** as a software engineer, playing a pivot role, in all phases from UI/UX design through to CI/CD, in the GPT-powered platform **[FoxiApply](https://lyde.io)** to assist students in crafting compelling CVs and personal statements for university admissions.
+- I worked at **Lyde** as a software engineer, playing a pivot role, in all phases from UI/UX design through to CI/CD, in the GPT-powered platform **[FoxiApply](https://foxiapply.com)** to assist students in crafting compelling CVs and personal statements for university admissions.
 - I also completed software engineer internship at [CRIB](https://apps.apple.com/us/app/crib-for-roommates/id6468918103?platform=iphone) and [Esurgi Biotech](https://myesurgi.com/), and collaborated with Prof. [Xie Pengtao](https://pengtaoxie.github.io/) on the LLM-related project [DrugChat](https://github.com/UCSD-AI4H/drugchat).
 - 👀 I’m interested in Game Development, Web&App Developement, Machine/Deep Learning.
 
