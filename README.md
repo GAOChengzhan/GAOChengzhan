@@ -8,8 +8,8 @@
 -  This is my personal [website](https://gaochengzhan.netlify.app/) where you can know more about me.
 
 ## Publications
-- [A Comprehensive Method for Similarity Evaluation in Discrete Fracture Network Modeling of Jointed Rock Masses](https://link.springer.com/article/10.1007/s00603-023-03572-0)
-- [Multi-Modal Large Language Model Enables All-Purpose Prediction of Drug Mechanisms and Properties](https://www.biorxiv.org/content/10.1101/2024.09.29.615524v1.abstract)
+- Chen, J., Seo, H., **Gao, C.** et al. A Comprehensive Method for Similarity Evaluation in Discrete Fracture Network Modeling of Jointed Rock Masses. Rock Mech Rock Eng 57, 639–653 (2024). [DOI](https://doi.org/10.1007/s00603-023-03572-0), [PDF](https://link.springer.com/article/10.1007/s00603-023-03572-0)
+- Liang, Y., Zhang, R., Li, Y., Huo, M., Ma, Z., Singh, D., **Gao, C.** et al. Multi-Modal Large Language Model Enables All-Purpose Prediction of Drug Mechanisms and Properties. bioRxiv, 2024.09. 29.615524 (2024). [DOI](https://doi.org/10.1101/2024.09.29.615524), [PDF](https://www.biorxiv.org/content/10.1101/2024.09.29.615524v1.abstract)
 
 ## My Posts:
 - [Insights on Error Handling System Design](https://gaochengzhan.netlify.app/post/error-handling/)
