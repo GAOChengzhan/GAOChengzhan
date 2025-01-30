@@ -31,17 +31,17 @@ PS. If you also like [Haibara](https://www.detectiveconanworld.com/wiki/Ai_Haiba
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 December 2024 - To: 27 January 2025
+From: 29 December 2024 - To: 28 January 2025
 
-Total Time: 49 hrs 34 mins
+Total Time: 50 hrs 14 mins
 
-TypeScript   46 hrs 56 mins  ███████████████████████▓░   94.68 %
-JSON         1 hr 31 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.07 %
-Markdown     47 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 %
+TypeScript   47 hrs 36 mins  ███████████████████████▓░   94.75 %
+JSON         1 hr 31 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.03 %
+Markdown     47 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 %
 Other        14 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
-YAML         4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
+YAML         4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
 Text         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
-INI          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+INI          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 TOML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 TSConfig     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 BibTeX       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
