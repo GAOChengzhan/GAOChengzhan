@@ -21,7 +21,7 @@
 - [Question Extractor](https://github.com/nestordemeure/question_extractor) using large language model
 
 ## Contact Me
-- 📫 My Email Address is gchengzhan@ucsd.edu
+- 📫 My Email Address is chengzhan.gao@gmail.com
 - ✨ My [Linkedin](https://www.linkedin.com/in/chengzhan-christoffel-gao/).
 
 PS. If you also like [Haibara](https://www.detectiveconanworld.com/wiki/Ai_Haibara)/L. Messi, we are already good friends.
