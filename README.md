@@ -33,13 +33,13 @@ PS. If you also like [Haibara](https://www.detectiveconanworld.com/wiki/Ai_Haiba
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 April 2025 - To: 28 May 2025
+From: 29 April 2025 - To: 29 May 2025
 
-Total Time: 12 hrs 52 mins
+Total Time: 12 hrs 51 mins
 
-TypeScript   10 hrs 48 mins  █████████████████████░░░░   84.02 %
-JavaScript   1 hr 25 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.06 %
-JSON         21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.79 %
+TypeScript   10 hrs 47 mins  █████████████████████░░░░   83.99 %
+JavaScript   1 hr 25 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.08 %
+JSON         21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.80 %
 Other        7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
 TSConfig     5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
 Java         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
