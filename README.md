@@ -33,7 +33,7 @@ PS. If you also like [Haibara](https://www.detectiveconanworld.com/wiki/Ai_Haiba
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 May 2025 - To: 15 June 2025
+From: 17 May 2025 - To: 16 June 2025
 
 Total Time: 0 secs
 
